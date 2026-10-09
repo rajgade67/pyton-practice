@@ -5,6 +5,10 @@
 # Input: Python
 # Output: nohtyP
 
-text = input("Enter the string: ")
 
-# Write your solution here.
+text = input("Enter a string: ")
+
+reverse = text[::-1]
+
+print("Reverse string:", reverse)
+
