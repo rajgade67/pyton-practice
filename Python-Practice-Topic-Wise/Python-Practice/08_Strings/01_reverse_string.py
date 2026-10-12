@@ -1,2 +1,3 @@
-s = input("Enter the string: ")
-print(s[::-1])
+# Reverse a string
+text = input("Enter a string: ")
+print("Reversed:", text[::-1])
